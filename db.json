@@ -1,0 +1,63 @@
+{
+  "tasks": [
+    {
+      "title": "Redux - Saga",
+      "description": "To Learn Reactjs api calls",
+      "date": "2021-01-30T23:35:15.551Z",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Redux-React",
+      "description": "Learn Redux-React",
+      "date": "2021-01-31T11:21:52.375Z",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "React-Router-Dom",
+      "description": "Learn React-Router-Dom",
+      "date": "2021-01-31T11:22:14.966Z",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "React-Services",
+      "description": "Learn Services",
+      "date": "2021-01-31T12:26:32.806Z",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Redux- Predictable container",
+      "description": "Process flow-view->action->Reducer->Store->view",
+      "date": "2021-01-31T13:59:30.232Z",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Redux-Components",
+      "description": "Class(State) and Function(stateLess)",
+      "date": "2021-01-31T14:14:31.532Z",
+      "completed": false,
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
